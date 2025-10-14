@@ -1,2 +1,2 @@
 # virtualShoppingCart
-A virtual shopping cart with HTML, CSS e JS.
+A virtual shopping cart with HTML, CSS and JS.
